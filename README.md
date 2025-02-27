@@ -1,2 +1,2 @@
-For Software Engineering Project \n
+For Software Engineering Project
 Creating a Stock Ticker App
